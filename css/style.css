@@ -1,76 +1,76 @@
-.qartuli-absoluturi {
-	font-family: "BPG Mikheil Stefane", sans-serif;
-	width: 1150px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.headering {
-	width: 1150px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.qartuli-relatiuri {
-	color: #000000;
-    font-size: 42px;
-    width: 390px;
-    margin-bottom: 50px;
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-}
-.right-block {
+.rightdiving{
     display: inline-block;
     vertical-align: top;
 }
-.headering1 {
-    margin-left: 16px;
-    margin-top: 37px;
-    color: #5863F8;
-    font-size: 14px;
+.left-div{
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    height: 190px;
+    margin-right: 20px;
 }
-.headering2 {
-    font-size: 18px;
-    margin-left: 16px;
-    color: #000000;
-}
-.P {
+.P{
     width: 200px;
     color: #B1B1B1;
     font-size: #B1B1B1;
     margin-left: 16px;
     margin-top: 10px;
+    font-family: 'Hachi Maru Pop', cursive;
 }
-.righting {
-    display: inline-block;
-    vertical-align: top;
+.subheadsub{
+    margin-left: 16px;
+    margin-top: 37px;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'Hachi Maru Pop', cursive;
 }
-.P1 {
+.div-head{
+    font-size: 18px;
+    margin-left: 16px;
+    color: #000000;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+.leftdiving{
     width: 370px;
     display: inline-block;
     vertical-align: top;
     background-color: #BE2B2B;
-    height: 190px
+    height: 190px;
 }
-.h3 {
+.headering{
+    width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headofsub{
     color: #5863F8;
     font-size: 14px;
-    margin-top: 82px
+    margin-top: 82px;
+    font-family: "ALK Life", sans-serif;
 }
-.h1 {
+.head{
     color: #000000;
     font-size: 42px;
     width: 390px;
     margin-bottom: 50px;
+    font-family: "ALK Life", sans-serif;
 }
-.sectiondiving {
+
+/* section 2 styles */
+
+.div2{
     width: 260px;
     display: inline-block;
 }
-.sectiondiving1 {
+.headofsub1{
     margin-top: 23px;
     text-align: center;
     color: #5863F8;
     font-size: 14px;
+    font-family: 'ALK Life';
 }
-.sectiondiving2 {
+.sechead{
     text-align: center;
     color: #000000;
     font-size: 18px;
@@ -78,19 +78,21 @@
     margin-bottom: 10px;
     font-family: 'ALK Life';
 }
-.sectionP {
+.sectionP{
     width: 260px;
     text-align: center;
     color: #B1B1B1;
     font-size: 14px;
+    font-family: 'BPG Nino Elite Ultra';
 }
-.sub1 {
+.sectiondiving01{
     margin-left: 105px;
     width: 260px;
     display: inline-block;
 }
-.sectiondiving3 {
-     margin-left: 105px;
+.sectiondiving02{
+    margin-left: 105px;
     width: 260px;
     display: inline-block;
 }
+
