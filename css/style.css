@@ -1,0 +1,96 @@
+.qartuli-absoluturi {
+	font-family: "BPG Mikheil Stefane", sans-serif;
+	width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.headering {
+	width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.qartuli-relatiuri {
+	color: #000000;
+    font-size: 42px;
+    width: 390px;
+    margin-bottom: 50px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+.right-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.headering1 {
+    margin-left: 16px;
+    margin-top: 37px;
+    color: #5863F8;
+    font-size: 14px;
+}
+.headering2 {
+    font-size: 18px;
+    margin-left: 16px;
+    color: #000000;
+}
+.P {
+    width: 200px;
+    color: #B1B1B1;
+    font-size: #B1B1B1;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+.righting {
+    display: inline-block;
+    vertical-align: top;
+}
+.P1 {
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #BE2B2B;
+    height: 190px
+}
+.h3 {
+    color: #5863F8;
+    font-size: 14px;
+    margin-top: 82px
+}
+.h1 {
+    color: #000000;
+    font-size: 42px;
+    width: 390px;
+    margin-bottom: 50px;
+}
+.sectiondiving {
+    width: 260px;
+    display: inline-block;
+}
+.sectiondiving1 {
+    margin-top: 23px;
+    text-align: center;
+    color: #5863F8;
+    font-size: 14px;
+}
+.sectiondiving2 {
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'ALK Life';
+}
+.sectionP {
+    width: 260px;
+    text-align: center;
+    color: #B1B1B1;
+    font-size: 14px;
+}
+.sub1 {
+    margin-left: 105px;
+    width: 260px;
+    display: inline-block;
+}
+.sectiondiving3 {
+     margin-left: 105px;
+    width: 260px;
+    display: inline-block;
+}
